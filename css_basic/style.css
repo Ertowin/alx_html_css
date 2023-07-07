@@ -1,0 +1,36 @@
+body{
+   display: flex; 
+   flex-direction: column;
+   flex: auto;
+   background-color: beige;
+}
+
+.logo{
+   border: 1px solid black;
+   width: 100px;
+   height: 100px;
+}
+
+ul, li {
+   list-style-type: style none; ;
+}
+
+main{
+   display: flex;
+   flex-direction: row;
+}
+
+article{
+   flex: 2;
+   overflow-y: auto;
+}
+
+aside{
+   flex: 1;
+   overflow-y: auto;
+}
+
+aside, p{
+   text-align: left;
+   font-weight: 100;
+}
