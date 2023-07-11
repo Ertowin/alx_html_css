@@ -20,7 +20,8 @@ The following projects have been covered in the ALX COurse so far:
 
 * CSS BASIC 
     * Flexbox 
-    * Task 0 (this is where we are on now)
+    * 0. Add display flex
+    * 1. Add new classes on sections
 
 
 
