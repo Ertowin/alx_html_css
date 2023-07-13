@@ -372,14 +372,14 @@
 
   /* Section Latest news ============================= */
   
-  .section-latest-news .row{
+  .section-latest-news .row {
     flex-direction:row-reverse;
   }
 
   /* Section SERVICES ============================= */
   
   /*** 4. CARD ***/
-  .section-services .row{
+  .section-services .row {
     flex-wrap: wrap;
   }
   
